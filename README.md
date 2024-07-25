@@ -5,20 +5,29 @@
   😻
   😻
 [![liang14658fox's GitHub | Dependencies](https://stats.quine.sh/liang14658fox/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=liang14658fox)
-<!--
-**liang14658fox/liang14658fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=333)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
+[![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) 
+![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) 
+[![](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) 
+[![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)
+[![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
