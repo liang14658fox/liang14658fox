@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+![alt text](766bda3f7e16122c39f18559cf16ccab-1.gif)
+[![LeonardoSya's GitHub | Stats](https://stats.quine.sh/LeonardoSya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=LeonardoSya)
+  😻
+  😻
+  😻
+[![LeonardoSya's GitHub | Dependencies](https://stats.quine.sh/LeonardoSya/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=LeonardoSya)
 <!--
 **liang14658fox/liang14658fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
