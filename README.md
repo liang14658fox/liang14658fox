@@ -17,12 +17,12 @@
 | Tools      | ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff) ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff) [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)  [![](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) ![webpack](https://img.shields.io/badge/-webpack-8DD6F9?style=flat&logo=webpack&logoColor=333) ![vite](https://img.shields.io/badge/-vite-646CFF?style=flat&logo=vite&logoColor=280FEE) ![gulp](https://img.shields.io/badge/-Gulp-white?style=flat&logo=gulp&logoColor=0F0F11) ![htmx](https://img.shields.io/badge/-HTMX-3366CC?style=flat&logo=htmx&logoColor=white)  |
 | Others     | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL) ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm) ![yarn](https://img.shields.io/badge/-yarn-2C8EBB?style=flat&logo=yarn&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab) ![linux](https://img.shields.io/badge/-linux-FCC624?style=flat&logo=linux&logoColor=white) ![vitepress](https://img.shields.io/badge/-Vitepress-5C73E7?style=flat&logo=vitepress&logoColor=white) ![docusaurus](https://img.shields.io/badge/-Docusaurus-white?style=flat&logo=docusaurus&logoColor=3ECC5F)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-## **GitHub Stats:**
+<!-- ## **GitHub Stats:**
 
 ![maomao's github stats](https://github-readme-stats.vercel.app/api?username=liang14658fox&show_icons=true&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liang14658fox&layout=compact)
 </p>
-
+-->
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 
